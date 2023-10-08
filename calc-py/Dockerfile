@@ -1,4 +1,4 @@
 FROM python:alpine
 COPY . .
 
-CMD [ "python" , "calc.py" ]a
+CMD [ "python" , "calc.py" ]

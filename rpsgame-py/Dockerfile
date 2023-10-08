@@ -1,4 +1,4 @@
 FROM python:alpine
 COPY . .
 
-CMD [ "python" , "RockPaperScissorsGame.py" ]a
+CMD [ "python" , "RockPaperScissorsGame.py" ]
